@@ -1,17 +1,17 @@
 ---
 layout: member
-category: staff
-title: Anil Kokaram
+category: Faculty
+title: Vipul Arora
 image: vipular.jpg
 role: Professor
-date: 1998-01-01
-permalink: 'team/anil-kokaram'
+date: 2018
+permalink: 'team/vipul-arora'
 social:
   twitter:
-  linkedin: https://www.linkedin.com/in/anil-kokaram-8661417/
-  google-scholar: https://scholar.google.co.in/citations?user=uuacDrAAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/vipul-arora-942b4aa1/
+  google-scholar: https://scholar.google.co.in/citations?user=SC9YYPAAAAAJ&hl=en
   github:
-  website:
+  website: https://vipular.github.io/
   orcid:
   email: vipular@iitk.ac.in
 ---
