@@ -2,7 +2,7 @@
 layout: member
 category: staff
 title: Anil Kokaram
-image: akokaram.jpg
+image: vipular.jpg
 role: Professor
 date: 1998-01-01
 permalink: 'team/anil-kokaram'
@@ -13,20 +13,9 @@ social:
   github:
   website:
   orcid:
-  wikipedia: https://en.wikipedia.org/wiki/Anil_Kokaram
-  email: anil.kokaram@tcd.ie
+  email: vipular@iitk.ac.in
 ---
 
-Anil Kokaram was a Tech Lead in the Transcoding Group at YouTube/Google. He led
-a team responsible for video quality and developed video processing algorithms
-for quality improvement in various pipelines. He is also a Professor at Trinity
-College Dublin, Ireland and is now Head of the EE Dept there. He received his
-PhD from the University of Cambridge in 1993. His main expertise is in the broad
-areas of DSP for Video Processing. Bayesian Inference and motion estimation.
-He has published over 100 refereed papers in these areas.
+Vipul Arora received his B.Tech. and Ph.D. degrees in Electrical Engineering from the Indian Institute of Technology (IIT) Kanpur, India. For his doctoral thesis titled “Analysis of Pitched Polyphonic Music for Source Transcription”, he worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), he developed speech recognition systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), he worked on audio classification for developing Alexa home security system, with research focusing on classification with imbalanced data.
 
-In 2007 he was awarded a Science and Engineering Academy Award for his work in
-video processing for post-production applications. He was the founder of a company
-(GreenParrotPictures) producing video enhancement software that was acquired by
-Google in 2011. He was Associate Editor of the IEEE Transactions on CCts and
-Systems for Video Technology and the IEEE Transactions on Image Processing.
+Since 2018, he joined IITK as a faculty in the Department of Electrical Engineering.
